@@ -1,4 +1,4 @@
 # SAIC-Winter-project
-Frontend webpages v1
+Frontend webpages v1 (frontendd)
 <br>
-Reuploaded files for github pages
+Reuploaded files of final version by me (github pages)
